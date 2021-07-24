@@ -4,7 +4,7 @@ Data Analyst Portfolio Management Using Adventure Works Database
 
 #Project Aim
 
-To build a data analyst portfolio from scratch and how to set up an environment for completing the project.
+To build a data analyst portfolio from scratch and how to set up an environment for completing the project and this project inspired from Analyze with Ali youtube channel.
 
 # Business Request
 
