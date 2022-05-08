@@ -24,3 +24,16 @@ The budget is for 2021 and we usually look two years back in time when we analyz
 - Change Value: Visual dashboards and improve sales reporting
 - Necessary Systems: Power BI, CRM
 - Other Relevant Info? Budgets have been delivered in Excel for 2021
+
+## Report Outcome
+
+### Sales
+![1](https://user-images.githubusercontent.com/29350894/167313639-3cd4d94a-8ecc-4413-90a5-2a2e2eee8835.png)
+
+### Customer Details
+![2](https://user-images.githubusercontent.com/29350894/167313650-198e76db-bc45-4b3e-86f5-e87eaf560745.png)
+
+
+### Product Details
+![3](https://user-images.githubusercontent.com/29350894/167313655-444f3063-1513-44c1-8ae0-2a19264e9d3a.png)
+
